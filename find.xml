@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File '…\src\main\java\com\demodatabaseconnect\demodb\User.java [demodb.main]'" />
+    <option name="defaultScopeName" value="File '…\src\main\java\com\demodatabaseconnect\demodb\User.java [demodb.main]'" />
+    <option name="SEARCH_SCOPE" value="File '…\src\main\java\com\demodatabaseconnect\demodb\User.java [demodb.main]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
